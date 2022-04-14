@@ -1,0 +1,9 @@
+[03-Oct-2019 03:46:04 UTC] PHP Parse error:  syntax error, unexpected 'list' (T_LIST), expecting identifier (T_STRING) in /home/maivietl/tool.maivietland.vn/app/Http/Controllers/c_duyetphieu.php on line 11
+[03-Oct-2019 03:46:19 UTC] PHP Parse error:  syntax error, unexpected 'list' (T_LIST), expecting identifier (T_STRING) in /home/maivietl/tool.maivietland.vn/app/Http/Controllers/c_duyetphieu.php on line 11
+[08-Oct-2019 04:20:48 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/maivietl/tool.maivietland.vn/app/Http/Controllers/c_locphieu.php on line 43
+[08-Oct-2019 04:21:03 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/maivietl/tool.maivietland.vn/app/Http/Controllers/c_locphieu.php on line 43
+[08-Oct-2019 04:21:07 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/maivietl/tool.maivietland.vn/app/Http/Controllers/c_locphieu.php on line 43
+[08-Oct-2019 04:21:07 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/maivietl/tool.maivietland.vn/app/Http/Controllers/c_locphieu.php on line 43
+[09-Oct-2019 08:25:35 UTC] PHP Parse error:  syntax error, unexpected '$phieu' (T_VARIABLE) in /home/maivietl/tool.maivietland.vn/app/Http/Controllers/c_phieu.php on line 70
+[09-Oct-2019 08:25:35 UTC] PHP Parse error:  syntax error, unexpected '$phieu' (T_VARIABLE) in /home/maivietl/tool.maivietland.vn/app/Http/Controllers/c_phieu.php on line 70
+[18-Feb-2020 09:53:52 UTC] PHP Fatal error:  Call to a member function delete() on null in /home/maivietl/tool.maivietland.vn/app/Http/Controllers/c_dashboard.php on line 38
