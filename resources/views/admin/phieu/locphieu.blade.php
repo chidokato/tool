@@ -93,9 +93,9 @@
                                         $ngay2 = date_format(date_create($val->ngay2),"l");
                                     ?>
                                     <tr style="white-space: nowrap;">
-                                        <td>{{$val->user->name}}</td>
-                                        <td>{{$val->user->code}}</td>
-                                        <td>{{$val->user->phong->name}}</td>
+                                        <td>{{ isset($val->user->name)? $val->user->name:'' }}</td>
+                                        <td>{{ isset($val->user->code)? $val->user->code:'' }}</td>
+                                        <td>{{ isset($val->user->phong->name)? $val->user->phong->name:'' }}</td>
                                         <td>{{$val->note}} @if($val->hinhthuc) ({{$val->hinhthuc}}) @endif </td>
                                         <td>
                                             @if($val->note == 'Nghỉ phép')
